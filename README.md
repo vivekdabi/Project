@@ -65,6 +65,6 @@ a stable 5V power supply.
 
 <img width="682" height="676" alt="image" src="https://github.com/user-attachments/assets/9d537f5b-4159-4f2d-b05d-ec1a42c60952" />
 
-
+<img width="772" height="577" alt="image" src="https://github.com/user-attachments/assets/5e884833-5fc7-4af8-838d-74c76952ff19" />
 
 
